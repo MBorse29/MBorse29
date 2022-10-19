@@ -11,6 +11,7 @@ Hi, I am <b> Manoj Borse.
 
 ![](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&background=F7FDFF00&center=true&multiline=true&height=245&width=500&lines=Front-End+Developer+...;6%2B%20years+of+hands-on+experience.;Love+to+learn+new+technologies!+)
 
+</p>
 
  
 ##  🛠️ My support system
