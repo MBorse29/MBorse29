@@ -9,7 +9,7 @@ Hi, I am <b> Manoj Borse.
 
 <p align="center">
 
-![](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=4000&background=F7FDFF00&center=true&multiline=true&height=245&width=500&lines=Front-End+Developer+...;7%2B%20years+of+hands-on+experience.;Love+to+learn+new+technologies!+)
+![](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=4000&background=F7FDFF00&center=true&multiline=true&height=245&width=500&lines=Front-End+Developer+...;8%2B%20years+of+hands-on+experience.;Love+to+learn+new+technologies!+)
 
 </p>
 
